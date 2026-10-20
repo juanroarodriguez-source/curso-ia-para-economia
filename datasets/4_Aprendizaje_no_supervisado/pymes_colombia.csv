@@ -1,0 +1,251 @@
+empresa,ventas_anuales,empleados,productividad,margen_operacional,endeudamiento,exportaciones_pct,inversion_tic,antiguedad,crecimiento_ventas,sector,region
+PYME_001,4458.4,62,71.91,7.2,30.5,2.8,1.9,33,2.3,Comercio,Andina
+PYME_002,406.5,6,67.75,5.5,44.3,0.1,1.2,10,-2.3,Comercio,Eje Cafetero
+PYME_003,4447.2,48,92.65,7.5,50.9,5.3,1.1,25,5.4,Comercio,Andina
+PYME_004,16455.9,119,138.28,-1.2,77.3,13.8,2.6,28,-8.0,Comercio,Pacífica
+PYME_005,16413.8,203,80.86,-3.5,84.2,4.9,2.4,18,-14.5,Servicios,Andina
+PYME_006,4439.1,52,85.37,9.8,58.3,0.7,1.4,25,5.2,Comercio,Caribe
+PYME_007,16677.6,189,88.24,-1.3,83.1,9.6,2.1,22,-3.6,Comercio,Andina
+PYME_008,298.7,2,149.35,7.2,31.0,0.5,1.0,9,3.1,Agroindustria,Andina
+PYME_009,3109.0,58,53.6,3.9,46.8,8.0,1.5,26,-1.2,Agroindustria,Caribe
+PYME_010,13425.5,187,71.79,-1.8,81.0,16.5,2.8,16,-16.0,Manufactura,Andina
+PYME_011,426.1,8,53.26,7.9,56.8,0.4,0.3,9,2.3,Comercio,Andina
+PYME_012,264.1,5,52.82,4.8,59.6,0.0,0.5,3,-0.7,Agroindustria,Caribe
+PYME_013,10520.4,48,219.18,18.3,44.7,39.9,7.6,16,18.6,Agroindustria,Andina
+PYME_014,459.1,4,114.78,6.1,48.5,0.0,0.0,5,7.3,Agroindustria,Eje Cafetero
+PYME_015,4660.5,50,93.21,6.4,35.3,1.0,2.3,34,6.8,Comercio,Andina
+PYME_016,571.5,2,285.75,7.2,37.7,0.5,1.3,7,4.9,Comercio,Pacífica
+PYME_017,21772.5,169,128.83,3.1,86.1,16.2,2.9,15,-10.5,Manufactura,Andina
+PYME_018,7157.9,82,87.29,18.4,43.7,47.3,6.1,11,24.0,Comercio,Pacífica
+PYME_019,5482.8,63,87.03,10.0,38.2,3.3,1.8,19,9.3,Manufactura,Andina
+PYME_020,485.0,8,60.62,4.9,39.1,0.6,0.5,3,0.4,Agroindustria,Andina
+PYME_021,275.1,8,34.39,5.6,38.8,0.3,1.0,4,6.9,Comercio,Caribe
+PYME_022,194.1,6,32.35,7.2,29.0,0.8,0.0,7,0.3,Manufactura,Eje Cafetero
+PYME_023,10946.5,81,135.14,22.3,50.5,53.5,9.5,11,20.9,TIC,Andina
+PYME_024,16772.6,158,106.16,-4.4,82.3,5.3,3.0,21,-12.4,Servicios,Andina
+PYME_025,238.1,9,26.46,6.2,39.5,0.0,0.5,11,0.3,Agroindustria,Pacífica
+PYME_026,10341.0,87,118.86,14.7,45.6,57.3,8.8,16,23.7,TIC,Andina
+PYME_027,473.9,6,78.98,5.4,38.4,0.0,0.2,8,4.1,Manufactura,Caribe
+PYME_028,4674.0,65,71.91,12.3,47.1,6.6,1.7,31,6.5,Comercio,Andina
+PYME_029,5397.1,58,93.05,11.4,48.1,5.9,1.6,34,4.6,Comercio,Caribe
+PYME_030,3751.3,43,87.24,11.0,46.5,1.2,1.8,24,1.6,Comercio,Pacífica
+PYME_031,366.7,5,73.34,4.5,34.7,0.2,0.7,5,11.0,Comercio,Pacífica
+PYME_032,9009.2,53,169.98,16.2,55.9,53.1,7.4,8,35.6,TIC,Andina
+PYME_033,66.7,8,8.34,6.2,36.4,0.2,0.6,11,0.8,Servicios,Caribe
+PYME_034,8152.4,112,72.79,21.9,59.9,46.8,8.2,11,19.9,Manufactura,Eje Cafetero
+PYME_035,17984.4,190,94.65,-1.1,85.8,9.2,2.1,16,-8.8,Manufactura,Andina
+PYME_036,7530.3,65,115.85,19.0,44.5,43.2,9.7,10,18.7,TIC,Caribe
+PYME_037,4087.6,59,69.28,8.0,42.7,2.5,1.0,29,7.0,Manufactura,Eje Cafetero
+PYME_038,155.5,7,22.21,4.6,27.2,0.0,0.5,7,3.6,Comercio,Andina
+PYME_039,342.4,5,68.48,4.7,43.8,0.2,0.4,1,-2.4,Agroindustria,Andina
+PYME_040,357.5,7,51.07,5.0,42.9,0.1,0.6,9,6.0,Comercio,Pacífica
+PYME_041,15809.2,124,127.49,-0.8,86.0,16.3,3.5,27,-8.7,Comercio,Caribe
+PYME_042,300.3,6,50.05,4.2,42.3,0.2,0.8,7,2.5,Servicios,Andina
+PYME_043,16567.7,186,89.07,-5.7,86.6,13.0,3.7,29,-12.7,Servicios,Pacífica
+PYME_044,4780.9,49,97.57,10.0,58.6,2.4,1.6,30,3.2,Agroindustria,Andina
+PYME_045,9039.8,93,97.2,12.8,52.6,44.2,10.1,9,19.9,Manufactura,Andina
+PYME_046,5227.2,61,85.69,8.8,49.4,2.5,0.9,28,10.9,Agroindustria,Caribe
+PYME_047,16408.1,183,89.66,-1.4,72.1,8.9,2.5,28,-10.2,Agroindustria,Caribe
+PYME_048,8842.5,65,136.04,18.5,44.4,52.9,7.2,9,32.5,Comercio,Andina
+PYME_049,4326.7,58,74.6,9.5,46.0,4.9,0.8,21,5.1,Agroindustria,Caribe
+PYME_050,422.6,4,105.65,1.7,41.8,0.0,1.3,5,2.1,Comercio,Pacífica
+PYME_051,10605.2,139,76.3,0.8,75.6,19.0,2.8,33,1.1,Manufactura,Andina
+PYME_052,2761.0,52,53.1,7.3,49.4,3.3,1.3,31,0.8,Servicios,Pacífica
+PYME_053,5328.6,73,72.99,8.5,64.1,2.5,2.2,30,9.5,Comercio,Eje Cafetero
+PYME_054,5259.3,55,95.62,10.3,35.9,3.7,2.1,28,0.4,Servicios,Andina
+PYME_055,4805.6,44,109.22,8.0,50.0,1.6,1.4,31,8.3,Servicios,Caribe
+PYME_056,4307.0,56,76.91,6.5,40.0,3.0,1.4,40,2.0,Agroindustria,Caribe
+PYME_057,167.0,2,83.5,5.0,33.2,0.7,0.3,12,-1.9,Comercio,Eje Cafetero
+PYME_058,204.8,3,68.27,4.1,43.0,0.9,0.5,6,3.2,Comercio,Caribe
+PYME_059,3997.0,62,64.47,8.8,48.9,2.2,1.9,30,5.8,Manufactura,Andina
+PYME_060,4995.3,51,97.95,8.5,34.6,1.3,2.0,32,1.8,Manufactura,Eje Cafetero
+PYME_061,399.5,5,79.9,3.4,40.0,0.9,0.9,3,3.2,Agroindustria,Andina
+PYME_062,325.5,5,65.1,3.8,46.9,0.0,0.4,9,-1.5,Comercio,Pacífica
+PYME_063,13809.3,120,115.08,-1.9,86.5,7.1,1.0,28,-3.7,Manufactura,Caribe
+PYME_064,454.9,6,75.82,2.2,26.2,0.2,0.0,3,2.2,Comercio,Caribe
+PYME_065,12618.5,196,64.38,0.2,87.8,16.7,1.8,26,-11.0,Comercio,Eje Cafetero
+PYME_066,10735.4,206,52.11,-4.6,80.3,23.0,1.8,16,-15.8,Agroindustria,Caribe
+PYME_067,8575.3,87,98.57,20.4,48.9,48.1,6.9,14,27.3,Comercio,Eje Cafetero
+PYME_068,13236.4,191,69.3,-2.2,92.2,9.3,3.3,10,-6.0,Manufactura,Andina
+PYME_069,237.1,5,47.42,2.0,38.1,0.3,0.9,8,3.1,Comercio,Eje Cafetero
+PYME_070,5142.3,70,73.46,9.7,40.3,1.9,0.8,26,3.9,Comercio,Andina
+PYME_071,4039.0,44,91.8,9.2,44.2,1.5,1.3,29,0.3,Servicios,Andina
+PYME_072,8228.1,86,95.68,21.1,55.8,30.7,6.9,17,18.0,TIC,Eje Cafetero
+PYME_073,4390.9,64,68.61,11.2,36.0,6.1,2.2,33,5.4,Servicios,Andina
+PYME_074,4234.3,52,81.43,5.7,42.8,1.0,2.3,20,0.2,Servicios,Andina
+PYME_075,410.4,7,58.63,2.8,35.6,0.7,0.1,7,4.0,Comercio,Andina
+PYME_076,10001.3,51,196.1,19.1,63.9,58.2,7.2,11,19.4,TIC,Andina
+PYME_077,9754.3,77,126.68,18.1,46.9,34.7,9.8,7,28.8,Comercio,Eje Cafetero
+PYME_078,358.5,5,71.7,9.3,41.0,0.3,0.5,8,3.3,Manufactura,Andina
+PYME_079,12877.3,133,96.82,-2.7,86.1,8.6,3.0,31,-17.3,Servicios,Pacífica
+PYME_080,4482.0,53,84.57,12.0,39.3,2.5,1.0,27,-0.2,Comercio,Pacífica
+PYME_081,3491.5,56,62.35,9.7,43.9,1.7,0.7,22,3.5,Comercio,Caribe
+PYME_082,19252.0,171,112.58,-4.6,83.1,10.1,1.9,24,-8.9,Manufactura,Andina
+PYME_083,2877.9,21,137.04,9.6,46.0,0.0,1.2,31,3.1,Servicios,Andina
+PYME_084,2218.6,50,44.37,10.0,45.6,5.0,2.0,26,2.9,Agroindustria,Andina
+PYME_085,5343.8,62,86.19,11.6,59.9,5.6,1.9,27,3.2,Manufactura,Caribe
+PYME_086,13950.4,173,80.64,-4.4,91.7,11.9,1.7,20,-0.8,Servicios,Caribe
+PYME_087,318.0,5,63.6,6.2,24.9,0.2,0.1,8,-0.9,Manufactura,Andina
+PYME_088,160.9,8,20.11,4.6,61.1,0.6,0.2,9,1.9,Agroindustria,Caribe
+PYME_089,2835.9,43,65.95,9.9,30.4,4.9,1.3,29,3.0,Servicios,Caribe
+PYME_090,4165.7,44,94.68,5.8,41.7,1.7,1.6,25,-0.7,Comercio,Andina
+PYME_091,327.3,4,81.82,5.2,41.5,0.5,1.0,10,3.3,Comercio,Eje Cafetero
+PYME_092,362.9,8,45.36,2.8,40.3,0.6,0.4,13,-0.8,Agroindustria,Andina
+PYME_093,17393.0,179,97.17,-2.8,77.1,13.2,1.1,13,-2.7,Manufactura,Andina
+PYME_094,11932.3,77,154.96,20.6,62.2,48.3,8.2,10,16.4,Comercio,Andina
+PYME_095,422.0,3,140.67,4.1,41.3,0.8,0.8,7,4.6,Agroindustria,Pacífica
+PYME_096,4162.0,53,78.53,11.3,54.0,4.1,2.3,30,5.1,Manufactura,Andina
+PYME_097,476.8,8,59.6,5.7,43.6,0.8,1.2,7,4.9,Comercio,Caribe
+PYME_098,3764.1,38,99.06,8.3,46.4,3.8,2.3,23,3.4,Comercio,Eje Cafetero
+PYME_099,10706.8,83,129.0,18.6,46.0,45.8,8.8,17,21.5,Servicios,Pacífica
+PYME_100,8984.3,77,116.68,18.2,66.2,36.4,6.7,13,15.7,Agroindustria,Eje Cafetero
+PYME_101,447.8,3,149.27,2.8,38.3,0.4,0.5,7,5.0,Agroindustria,Andina
+PYME_102,238.6,6,39.77,4.7,44.3,0.9,0.5,9,4.1,Manufactura,Pacífica
+PYME_103,275.9,8,34.49,4.5,32.1,0.6,1.0,8,4.2,Comercio,Andina
+PYME_104,9220.9,59,156.29,19.4,57.5,43.6,7.1,19,26.8,TIC,Andina
+PYME_105,4324.8,54,80.09,9.9,44.9,0.8,1.9,32,5.9,Manufactura,Caribe
+PYME_106,350.3,7,50.04,6.2,44.3,0.3,0.6,7,3.7,Agroindustria,Pacífica
+PYME_107,11315.5,71,159.37,13.0,53.2,43.1,9.4,12,27.6,Comercio,Andina
+PYME_108,341.9,5,68.38,5.6,30.6,0.8,0.2,5,2.3,Servicios,Andina
+PYME_109,17823.5,176,101.27,-2.0,84.1,15.3,2.7,21,-7.3,Comercio,Caribe
+PYME_110,7022.7,74,94.9,18.0,62.2,49.9,9.2,6,19.8,TIC,Caribe
+PYME_111,3826.1,52,73.58,6.1,43.9,5.8,1.7,30,0.2,Agroindustria,Eje Cafetero
+PYME_112,20097.7,184,109.23,-2.3,88.0,20.5,2.4,20,-14.2,Manufactura,Andina
+PYME_113,4666.2,50,93.32,7.7,50.7,0.4,2.2,42,1.9,Servicios,Andina
+PYME_114,13138.3,157,83.68,-3.2,86.5,11.5,2.5,24,-8.4,Agroindustria,Andina
+PYME_115,4420.6,57,77.55,11.7,54.4,1.9,2.6,24,5.9,Agroindustria,Caribe
+PYME_116,11672.9,87,134.17,20.0,54.9,35.1,9.4,17,23.3,Manufactura,Andina
+PYME_117,8485.6,63,134.69,22.1,42.4,31.6,8.9,8,22.7,Manufactura,Andina
+PYME_118,11952.6,183,65.31,3.0,76.8,3.5,2.8,21,-9.0,Manufactura,Pacífica
+PYME_119,15864.8,193,82.2,-1.2,88.4,14.3,3.1,27,-10.3,Manufactura,Caribe
+PYME_120,11064.3,60,184.4,21.5,53.9,50.3,8.9,17,27.2,Servicios,Andina
+PYME_121,15718.6,197,79.79,-5.4,83.1,15.6,2.2,15,-11.8,Manufactura,Caribe
+PYME_122,221.5,9,24.61,4.3,30.8,0.9,0.3,11,2.3,Comercio,Pacífica
+PYME_123,10529.6,61,172.62,20.7,52.8,56.3,8.6,11,22.1,Manufactura,Pacífica
+PYME_124,10190.0,81,125.8,17.4,52.0,38.0,3.8,13,18.5,Agroindustria,Eje Cafetero
+PYME_125,4700.3,42,111.91,9.9,39.6,3.5,0.9,26,10.5,Comercio,Andina
+PYME_126,9722.1,78,124.64,22.2,54.5,36.7,8.4,12,7.9,Manufactura,Caribe
+PYME_127,5063.2,58,87.3,7.7,51.4,4.0,1.6,25,4.6,Manufactura,Andina
+PYME_128,370.6,3,123.53,6.6,38.1,0.5,0.8,3,2.4,Comercio,Andina
+PYME_129,9157.0,80,114.46,15.1,46.0,41.0,6.8,16,14.9,Manufactura,Andina
+PYME_130,223.9,8,27.99,6.1,43.7,1.1,0.7,3,0.9,Manufactura,Eje Cafetero
+PYME_131,16452.3,214,76.88,-4.8,94.2,7.9,2.8,31,-8.3,Servicios,Andina
+PYME_132,419.3,8,52.41,0.8,39.0,0.7,0.9,9,1.8,Comercio,Caribe
+PYME_133,9273.2,72,128.79,24.7,58.3,50.7,9.7,8,25.4,Manufactura,Pacífica
+PYME_134,4288.9,49,87.53,10.7,56.5,4.0,1.6,28,1.3,Manufactura,Eje Cafetero
+PYME_135,8489.0,99,85.75,15.2,55.9,34.3,7.4,15,14.9,Agroindustria,Andina
+PYME_136,9248.1,71,130.25,18.1,66.4,32.8,6.2,9,24.7,Comercio,Caribe
+PYME_137,3574.6,25,142.98,12.0,43.2,1.2,1.3,36,6.7,Manufactura,Eje Cafetero
+PYME_138,15977.3,152,105.11,-2.9,85.8,18.7,2.4,18,-10.6,Manufactura,Andina
+PYME_139,388.5,9,43.17,2.2,33.2,0.3,0.0,7,0.9,Comercio,Eje Cafetero
+PYME_140,10007.2,67,149.36,16.9,61.5,46.5,6.9,13,15.0,Servicios,Caribe
+PYME_141,4353.4,36,120.93,9.2,48.9,3.7,1.9,34,2.9,Agroindustria,Andina
+PYME_142,428.9,5,85.78,5.3,29.2,0.6,0.5,4,1.7,Servicios,Pacífica
+PYME_143,13238.0,124,106.76,-3.1,82.9,12.0,2.3,20,-10.2,Manufactura,Caribe
+PYME_144,4065.7,27,150.58,6.2,43.4,2.8,1.2,32,1.4,Servicios,Andina
+PYME_145,14319.6,155,92.38,-5.8,85.0,8.9,2.9,28,-15.5,Comercio,Eje Cafetero
+PYME_146,3984.9,52,76.63,8.2,40.1,3.8,2.5,35,1.3,Manufactura,Andina
+PYME_147,10529.7,64,164.53,23.2,60.7,44.5,8.3,12,16.9,Agroindustria,Caribe
+PYME_148,233.5,7,33.36,4.5,36.9,0.8,0.9,9,1.0,Servicios,Pacífica
+PYME_149,9344.8,91,102.69,21.9,52.6,48.7,7.5,13,17.8,TIC,Caribe
+PYME_150,4465.6,46,97.08,9.7,42.0,3.5,1.9,40,1.8,Servicios,Andina
+PYME_151,8779.3,91,96.48,15.4,48.7,35.6,7.8,19,21.6,Manufactura,Andina
+PYME_152,10577.2,63,167.89,17.7,54.8,33.9,8.1,11,18.2,Servicios,Eje Cafetero
+PYME_153,10559.8,57,185.26,12.6,54.1,54.5,7.2,11,21.8,Comercio,Pacífica
+PYME_154,4166.5,40,104.16,7.6,51.2,1.5,2.2,20,3.7,Manufactura,Caribe
+PYME_155,429.4,7,61.34,4.3,27.7,0.0,0.8,12,0.6,Comercio,Eje Cafetero
+PYME_156,3936.6,37,106.39,7.7,31.9,0.1,2.0,21,-0.3,Manufactura,Andina
+PYME_157,4688.7,45,104.19,7.6,35.6,2.3,2.3,26,4.5,Manufactura,Caribe
+PYME_158,13304.4,144,92.39,-4.7,88.4,6.8,1.7,21,-8.5,Manufactura,Eje Cafetero
+PYME_159,8160.1,80,102.0,20.7,62.6,37.0,9.1,15,27.3,Manufactura,Andina
+PYME_160,5433.7,70,77.62,12.6,41.7,0.1,0.5,37,4.9,Servicios,Eje Cafetero
+PYME_161,331.4,5,66.28,4.0,36.1,0.5,1.0,11,3.7,Agroindustria,Pacífica
+PYME_162,244.3,8,30.54,2.8,22.6,0.3,0.3,5,3.7,Comercio,Andina
+PYME_163,7351.3,50,147.03,16.9,54.7,60.4,7.6,17,16.6,Comercio,Andina
+PYME_164,383.3,10,38.33,1.7,22.3,1.4,0.0,6,-3.3,Agroindustria,Andina
+PYME_165,11651.4,93,125.28,16.2,65.6,39.3,6.2,10,28.5,TIC,Eje Cafetero
+PYME_166,10492.1,75,139.89,16.6,49.2,40.0,9.9,16,17.9,TIC,Eje Cafetero
+PYME_167,8366.0,81,103.28,13.8,54.1,42.8,9.8,14,18.7,Manufactura,Andina
+PYME_168,9530.9,75,127.08,20.1,50.3,53.4,8.8,17,21.3,Manufactura,Andina
+PYME_169,6549.8,58,112.93,10.5,42.9,7.4,1.7,34,-5.0,Manufactura,Andina
+PYME_170,4762.1,61,78.07,10.4,42.1,6.6,1.5,27,4.8,Comercio,Caribe
+PYME_171,214.2,6,35.7,5.0,42.2,0.0,0.0,8,0.9,Servicios,Andina
+PYME_172,12755.2,83,153.68,20.0,55.2,30.5,10.9,18,28.2,TIC,Andina
+PYME_173,430.4,4,107.6,3.8,43.4,0.3,0.7,6,3.1,Comercio,Eje Cafetero
+PYME_174,13797.1,120,114.98,-1.1,82.0,14.5,1.8,20,-1.5,Manufactura,Andina
+PYME_175,14908.7,117,127.42,-5.9,80.9,12.3,1.5,20,-4.0,Servicios,Andina
+PYME_176,11047.2,77,143.47,18.2,62.2,42.4,6.8,10,23.9,TIC,Eje Cafetero
+PYME_177,228.6,9,25.4,5.5,23.1,0.5,0.7,8,1.2,Comercio,Andina
+PYME_178,5583.2,56,99.7,6.0,37.1,0.0,1.8,17,3.2,Manufactura,Caribe
+PYME_179,335.3,8,41.91,5.1,57.7,0.8,0.3,9,5.8,Agroindustria,Pacífica
+PYME_180,445.1,6,74.18,3.9,51.2,0.2,0.6,12,3.9,Comercio,Caribe
+PYME_181,220.5,5,44.1,10.0,45.5,0.4,0.6,7,-1.6,Manufactura,Eje Cafetero
+PYME_182,13325.4,161,82.77,-2.0,80.5,5.7,1.7,17,-16.6,Servicios,Caribe
+PYME_183,391.6,8,48.95,3.3,32.6,0.2,0.7,7,1.4,Agroindustria,Andina
+PYME_184,349.4,7,49.91,1.8,27.1,0.5,1.0,12,1.4,Comercio,Caribe
+PYME_185,2718.0,47,57.83,8.7,43.3,8.4,1.0,39,5.3,Manufactura,Andina
+PYME_186,12361.4,157,78.74,-5.8,85.3,14.9,3.0,33,-11.3,Servicios,Pacífica
+PYME_187,334.4,4,83.6,1.9,39.8,0.3,0.2,5,2.9,Agroindustria,Caribe
+PYME_188,339.0,3,113.0,7.0,35.0,0.3,1.2,3,0.7,Comercio,Pacífica
+PYME_189,11955.2,63,189.77,20.6,44.6,43.9,8.8,12,19.3,Agroindustria,Caribe
+PYME_190,305.1,6,50.85,3.0,45.8,0.0,0.7,5,0.6,Servicios,Andina
+PYME_191,5935.5,78,76.1,19.5,48.1,44.8,3.7,10,16.8,TIC,Andina
+PYME_192,10258.0,73,140.52,15.0,67.6,44.3,7.9,4,22.4,Comercio,Caribe
+PYME_193,383.9,6,63.98,2.2,48.3,0.1,1.3,10,2.6,Agroindustria,Caribe
+PYME_194,15148.2,160,94.68,1.6,89.8,12.8,3.2,16,-12.0,Manufactura,Andina
+PYME_195,308.3,5,61.66,5.4,49.9,0.0,0.0,5,1.7,Comercio,Caribe
+PYME_196,2997.6,47,63.78,10.1,36.1,5.9,2.3,32,4.1,Manufactura,Andina
+PYME_197,15814.8,181,87.37,-2.9,85.3,15.0,2.1,21,-11.4,Comercio,Caribe
+PYME_198,282.2,4,70.55,5.8,41.4,0.2,0.4,7,1.2,Agroindustria,Pacífica
+PYME_199,9738.9,80,121.74,17.7,48.5,35.6,8.6,17,13.2,TIC,Eje Cafetero
+PYME_200,4831.1,65,74.32,7.7,41.3,3.1,1.1,30,3.9,Agroindustria,Caribe
+PYME_201,4061.5,54,75.21,9.8,38.8,2.8,1.1,27,9.6,Agroindustria,Pacífica
+PYME_202,11956.0,163,73.35,-1.0,83.8,11.5,2.2,22,-13.5,Comercio,Andina
+PYME_203,3366.5,55,61.21,6.9,39.3,4.0,1.5,22,7.1,Servicios,Caribe
+PYME_204,5869.1,49,119.78,11.0,43.3,2.9,1.2,40,2.1,Manufactura,Andina
+PYME_205,9279.1,90,103.1,15.2,62.9,54.1,8.8,17,31.0,TIC,Caribe
+PYME_206,14595.7,135,108.12,-4.1,84.5,10.2,1.5,17,-12.6,Manufactura,Eje Cafetero
+PYME_207,457.8,6,76.3,4.6,37.7,0.1,1.3,8,4.9,Agroindustria,Eje Cafetero
+PYME_208,356.9,2,178.45,6.2,48.1,0.0,1.2,5,4.7,Comercio,Caribe
+PYME_209,400.5,7,57.21,1.6,42.6,0.0,0.7,4,8.1,Agroindustria,Eje Cafetero
+PYME_210,9411.1,86,109.43,20.3,45.0,54.1,6.8,10,22.5,TIC,Pacífica
+PYME_211,2976.5,67,44.43,9.9,39.5,5.1,0.7,34,2.7,Servicios,Andina
+PYME_212,10571.2,137,77.16,-2.3,75.3,4.5,3.2,31,-13.0,Comercio,Andina
+PYME_213,12568.0,169,74.37,-4.7,89.8,12.4,2.9,16,-11.6,Servicios,Caribe
+PYME_214,4254.0,52,81.81,16.0,52.8,4.4,1.4,32,0.5,Servicios,Caribe
+PYME_215,420.4,6,70.07,3.2,34.9,0.7,0.9,10,5.4,Manufactura,Eje Cafetero
+PYME_216,10488.1,102,102.82,17.4,50.1,44.6,10.8,10,20.6,Manufactura,Andina
+PYME_217,498.8,7,71.26,3.8,38.2,0.3,1.3,8,1.9,Agroindustria,Pacífica
+PYME_218,131.7,6,21.95,0.1,33.1,0.7,1.0,6,0.5,Comercio,Andina
+PYME_219,353.0,7,50.43,4.4,40.4,0.0,0.4,7,-1.0,Agroindustria,Caribe
+PYME_220,10636.1,94,113.15,19.4,47.5,64.0,8.7,17,29.4,Agroindustria,Andina
+PYME_221,4153.1,54,76.91,6.7,43.7,4.3,0.7,30,2.0,Manufactura,Andina
+PYME_222,3454.0,56,61.68,10.0,47.1,0.4,1.3,30,6.1,Agroindustria,Caribe
+PYME_223,9633.3,80,120.42,16.8,49.3,55.3,8.0,12,12.4,TIC,Andina
+PYME_224,11003.2,66,166.72,19.2,55.1,48.0,7.5,16,23.3,Comercio,Andina
+PYME_225,17628.8,189,93.27,-3.0,80.5,13.8,1.9,12,-15.3,Servicios,Andina
+PYME_226,472.5,8,59.06,3.4,43.1,0.0,0.2,10,2.6,Comercio,Andina
+PYME_227,296.7,7,42.39,5.1,42.8,0.5,0.0,5,-0.9,Comercio,Andina
+PYME_228,4145.8,53,78.22,15.1,51.2,1.1,1.9,29,3.9,Comercio,Andina
+PYME_229,9205.8,57,161.51,18.6,59.0,58.7,7.3,12,23.1,Comercio,Eje Cafetero
+PYME_230,391.7,6,65.28,5.0,39.7,0.0,0.3,2,4.1,Servicios,Pacífica
+PYME_231,13494.8,151,89.37,0.3,91.3,9.3,1.5,24,-8.2,Manufactura,Andina
+PYME_232,368.4,4,92.1,5.3,54.4,0.5,1.1,7,-1.2,Agroindustria,Andina
+PYME_233,147.5,3,49.17,6.7,53.8,0.2,0.7,8,-3.1,Servicios,Andina
+PYME_234,22240.3,178,124.95,-1.4,81.7,2.8,1.5,18,-6.2,Comercio,Caribe
+PYME_235,200.4,4,50.1,3.8,41.3,1.1,0.7,11,4.5,Servicios,Caribe
+PYME_236,5894.1,55,107.17,11.1,52.6,3.9,1.4,16,2.5,Comercio,Caribe
+PYME_237,9837.5,92,106.93,17.4,61.0,59.6,6.2,10,22.8,Manufactura,Pacífica
+PYME_238,5010.3,36,139.18,7.4,38.6,8.2,1.6,29,5.5,Agroindustria,Caribe
+PYME_239,10848.8,82,132.3,16.2,57.3,44.1,8.5,12,20.2,Comercio,Caribe
+PYME_240,437.0,7,62.43,1.6,45.8,0.3,1.2,3,6.1,Servicios,Andina
+PYME_241,3799.5,61,62.29,9.4,43.4,1.3,1.6,33,5.9,Servicios,Caribe
+PYME_242,402.3,6,67.05,6.8,22.7,0.3,0.4,8,-1.0,Comercio,Caribe
+PYME_243,6308.1,40,157.7,11.9,43.4,0.2,1.6,27,5.0,Manufactura,Pacífica
+PYME_244,10198.5,59,172.86,18.7,59.2,35.3,7.5,14,21.1,TIC,Pacífica
+PYME_245,5320.1,46,115.65,9.1,48.3,6.5,0.8,32,-0.2,Agroindustria,Andina
+PYME_246,19804.3,183,108.22,1.6,85.2,11.0,2.0,22,-16.4,Manufactura,Andina
+PYME_247,410.5,2,205.25,2.3,32.5,0.3,0.3,1,-0.6,Agroindustria,Pacífica
+PYME_248,4339.2,46,94.33,5.0,43.4,5.7,0.9,33,7.8,Comercio,Andina
+PYME_249,5574.3,64,87.1,11.0,48.1,1.1,2.2,24,1.3,Manufactura,Pacífica
+PYME_250,5206.3,54,96.41,13.7,57.0,4.6,2.1,25,6.7,Servicios,Caribe
